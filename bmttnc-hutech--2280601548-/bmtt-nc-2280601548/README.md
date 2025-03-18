@@ -1,4 +1,2 @@
-git add README.md
-git commit -m "Re-add README.md"
-git push origin main  # Hoặc nhánh bạn đang làm việc
-
+# bmttnc-hutech--2280601548-
+&lt;trandangkhoa>_&lt;2280601548>
